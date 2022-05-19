@@ -1,0 +1,5 @@
+org/akshay/techie/messenger/model/Profile.class
+org/akshay/techie/messenger/database/DatabaseConfig.class
+org/akshay/techie/messenger/model/MessageClass.class
+org/akshay/techie/messenger/service/MessageService.class
+org/akshay/techie/messenger/resources/MessageResource.class
